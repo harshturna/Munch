@@ -1,3 +1,3 @@
 # Munch
 
-Responsive Static website build with best design & development practices.
+View it here https://harshturna.github.io/Munch/
